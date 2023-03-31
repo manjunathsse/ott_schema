@@ -1,0 +1,1 @@
+CREATE SCHEMA `ott_schema`;
